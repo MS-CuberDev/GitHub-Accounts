@@ -1,0 +1,23 @@
+header {
+    background-color: #161b22;
+    color: #fff;
+    padding: 25px 0;
+    margin-bottom: 50px;
+}
+
+header img {
+    width: 50px;
+}
+
+.card-accounts {
+    width: 100px;
+    border: 1px solid #e6e7e7;
+    background-color: #fafafa;
+    border-radius: 5px;
+}
+
+.card-img-top {
+    width: 200px;
+    border-radius: 10px;
+}
+
